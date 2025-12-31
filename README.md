@@ -1,16 +1,68 @@
-# Automated Sales Reporting Pipeline
+📊 Automated Sales Reporting – ETL & Monitoring Pipeline
 
-Projet de pipeline de données complet inspiré de mon expérience en supervision 24/7.  
-Objectif : automatiser le reporting des ventes, monitorer les indicateurs clés et envoyer des alertes en temps réel via Grafana et email.  
-Ce projet démontre mes compétences en **Data Engineering, ETL, SQL, Python, Grafana et automatisation**.
+Projet de pipeline de données end-to-end, inspiré de mon expérience en supervision 24/7, visant à automatiser le reporting des ventes, le suivi des indicateurs clés et la génération d’alertes sans intervention humaine.
 
-## Fonctionnalités
-- Génération de données de ventes réalistes (CSV)  
-- ETL : nettoyage, enrichissement, chargement dans MySQL  
-- Modèle de données analytique (tables fact/dimension)  
-- Dashboards Grafana pour monitoring et alertes (top produits, stocks critiques)  
-- Automation : capture de dashboard + envoi email quotidien  
-- Projet modulable et extensible
+🎯 Objectif
+Remplacer un reporting manuel chronophage par un système automatisé, fiable et exploitable en temps réel pour la prise de décision.
+
+⚙️ Fonctionnalités
+
+🔹 Génération de données de ventes réalistes (CSV simulé)
+
+🔹 Pipeline ETL en Python :
+
+Extraction des données
+
+Nettoyage & transformation avec Pandas
+
+Chargement dans MySQL
+
+🔹 Modèle de données analytique :
+
+Tables fact_sales
+
+Dimensions product et date
+
+🔹 Dashboards Grafana :
+
+Chiffre d’affaires par catégorie
+
+Évolution des ventes par jour de la semaine
+
+Identification des pics de ventes
+
+🔹 Automatisation du reporting :
+
+Capture automatique des dashboards
+
+Envoi d’un email quotidien (Selenium / script Python)
+
+🛠️ Stack technique
+
+Python (Pandas, MySQL Connector)
+
+MySQL
+
+SQL (modélisation analytique)
+
+Grafana
+
+Selenium (automatisation reporting)
+
+Git / GitHub
+
+🚀 Ce que ce projet démontre
+
+Conception d’un pipeline de données robuste
+
+Modélisation analytique orientée reporting
+
+Automatisation de bout en bout (ETL → visualisation → diffusion)
+
+Capacité à transformer un besoin métier en solution data concrète
+
+Projet modulable et extensible (ajout d’alertes, nouvelles sources de données, planification, cloud).
+
 
 
 
