@@ -29,6 +29,7 @@ Chiffre d’affaires par catégorie
 <img width="1880" height="675" alt="image" src="https://github.com/user-attachments/assets/139895e2-4d87-4546-8c68-ce807a354f77" />
 
 Évolution des ventes par jour de la semaine
+<img width="1872" height="674" alt="image" src="https://github.com/user-attachments/assets/0bf6ba21-84a9-4463-b4bf-3fa7d25f082d" />
 
 Identification des pics de ventes
 
@@ -59,6 +60,7 @@ Automatisation de bout en bout (ETL → visualisation → diffusion)
 Capacité à transformer un besoin métier en solution data concrète
 
 Projet modulable et extensible (ajout d’alertes, nouvelles sources de données, planification, cloud).
+
 
 
 
